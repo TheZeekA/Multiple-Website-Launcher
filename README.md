@@ -6,6 +6,9 @@
 
 ---
 
+<img width="593" height="506" alt="application-screenshot" src="https://github.com/user-attachments/assets/35b6f7fc-252b-492f-b2e0-b04df3eff011" />
+
+
 ## 🌟 Features
 
 - ⚡ **Instant Launch** - Open multiple websites with a single click
